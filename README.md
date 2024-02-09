@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Python, Javascript, React, and AWS**
 
-- 📫 How to reach me **soleilherring@gmail.com**
+- 📫 Reach out to me at **soleilherring@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/soleilherring/](https://www.linkedin.com/in/soleilherring/)
+- 📄 Connect with me on linkedin: [https://www.linkedin.com/in/soleilherring/](https://www.linkedin.com/in/soleilherring/)
 
 - ⚡ Fun fact **I have an identical twin.**
 
