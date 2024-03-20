@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! I'm Soleil Herring</h1>
 <h3 align="center">A growth mindset oriented full-stack software developer</h3>
 
-- 🌱 I’m currently learning **Python, Javascript, React, and AWS**
+- 🌱 I’m currently learning **C#, Java, Python, and Azure**
 
 - 📫 Reach out to me at **soleilherring@gmail.com**
 
